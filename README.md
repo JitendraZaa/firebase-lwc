@@ -10,6 +10,7 @@ Here will be some information about the app.
 1. Run command to build web app `npm run build`
 1. move to directory dist
 1. Push this directory `dist` in git
+1. Every time code changed in `src/module/my/app/app.html` , run command to build web app `npm run build`
 
 ## Running App
 [Click Here](https://jitendrazaa.github.io/firebase-lwc/dist/index.html)
