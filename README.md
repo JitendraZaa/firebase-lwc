@@ -1,6 +1,8 @@
 # sf-finance
 
 Here will be some information about the app.
+[Use this link to run application](https://jitendrazaa.github.io/firebase-lwc/)
+
 
 ## How to run application
 1. Execute this command to install LWC server locally `npm install -g lwc-services`
