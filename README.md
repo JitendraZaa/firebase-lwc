@@ -9,6 +9,8 @@ Here will be some information about the app.
 1. move to directory dist
 1. Push this directory `dist` in git
 
+## Running App
+[Click Here](https://jitendrazaa.github.io/firebase-lwc/dist/index.html)
 
 ## Reference
 [Gaurav Khetripal](https://dev.to/salesforcedevs/how-to-create-host-and-deploy-an-lwc-oss-app-1h8p)
